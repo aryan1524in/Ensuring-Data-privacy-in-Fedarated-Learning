@@ -1,0 +1,66 @@
+# Python / Federated Backend
+------------------------
+venv/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+
+# Jupyter and Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and debug files
+logs/
+*.log
+*.pid
+
+# Local data
+metrics.json
+.db
+.env
+.env.
+
+# Flower & FastAPI generated files
+*.cache
+*.msgpack
+
+------------------------
+# Node.js / Vite Frontend
+------------------------
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Vite/React build outputs
+frontend-dashboard/.next/
+frontend-dashboard/dist/
+frontend-dashboard/.turbo/
+frontend-dashboard/.vite/
+
+# npm / yarn / pnpm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+------------------------
+# OS/System files
+------------------------
+.DS_Store
+Thumbs.db
+
+------------------------
+# IDE / Editor files
+------------------------
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.sw?

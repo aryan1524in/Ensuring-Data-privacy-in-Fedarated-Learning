@@ -1,0 +1,13 @@
+flwr==1.8.0
+torch==2.2.2
+torchvision==0.17.2
+opacus==1.4.0
+scikit-learn==1.4.1.post1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+requests==2.31.0
