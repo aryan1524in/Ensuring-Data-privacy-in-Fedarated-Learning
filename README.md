@@ -118,8 +118,8 @@ We deploy this architecture fully on AWS:
 
 ```bash
 # Clone the repo
-git clone <https://github.com/aryan1524in/Ensuring-Data-privacy-in-Fedarated-Learning.git>
-cd <Ensuring-Data-privacy-in-Fedarated-Learning>
+git clone https://github.com/aryan1524in/Ensuring-Data-privacy-in-Fedarated-Learning.git
+cd Ensuring-Data-privacy-in-Fedarated-Learning
 ```
 
 #### 📦 Backend Setup
